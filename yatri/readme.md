@@ -2,22 +2,24 @@
 
 ## 1.To start backend (Django server)
 
-  a).Change the directory by typing “cd yatri”.
+  a).Change the directory by typing ```
+ 					cd yatri
+				```
 
-  b).Create virtual environment by typing “virtualenv venv”.
+  b).Create virtual environment by typing ``` virtualenv venv ```.
 
-  c).Install all the dependencies by writing the command "pip install -r 
-      requirements.txt”.
+  c).Install all the dependencies by writing the command ``` pip install -r 
+      requirements.txt ```.
 
-  d).Do migrations by typing “python manage.py migrate”.
+  d).Do migrations by typing ``` python manage.py migrate```.
 
-  e).Now start the server by typing “python manage.py runserver”.
+  e).Now start the server by typing ``` python manage.py runserver ```.
 
 ## 2.To start the frontend server(Angular 5)
 
-  a).Navigate to the folder “KHOJWEB”.
+  a).Navigate to the folder ``` KHOJWEB ```.
 
-  b).In the angular-cli run command “ng serve”.
+  b).In the angular-cli run command ``` ng serve ```.
 
 # Installation for the Android APP:-
 
