@@ -1,6 +1,6 @@
-Installation for the WEBAPP:-
+# Installation for the WEBAPP
 
-1.To start backend (Django server)
+## 1.To start backend (Django server)
 
   a).Change the directory by typing “cd yatri”.
 
@@ -13,13 +13,13 @@ Installation for the WEBAPP:-
 
   e).Now start the server by typing “python manage.py runserver”.
 
-2.To start the frontend server(Angular 5)
+## 2.To start the frontend server(Angular 5)
 
   a).Navigate to the folder “KHOJWEB”.
 
   b).In the angular-cli run command “ng serve”.
 
-Installation for the Android APP:-
+# Installation for the Android APP:-
 
 a). Navigate to TheKhojak folder.
 
